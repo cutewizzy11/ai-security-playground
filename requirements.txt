@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+jupyterlab
+torch
+pytest
+black
+isort
+flake8
